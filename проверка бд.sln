@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "проверка бд", "проверка бд\проверка бд.csproj", "{95FB8A7F-B568-4662-B1C1-0890DF5EA08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FB8A7F-B568-4662-B1C1-0890DF5EA08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FB8A7F-B568-4662-B1C1-0890DF5EA08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FB8A7F-B568-4662-B1C1-0890DF5EA08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FB8A7F-B568-4662-B1C1-0890DF5EA08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {264F8302-1BD1-4E58-8F09-686132C00A6A}
+	EndGlobalSection
+EndGlobal
